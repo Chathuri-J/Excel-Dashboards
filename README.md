@@ -39,14 +39,6 @@ Dashboard Features
 - Clean and professional layout  
 - Real-time filtering across all visuals
 
----
-
-Dashboard Snapshot 
-Example:
-```
-<img width="1054" height="775" alt="Screenshot 2025-12-10 183430" src="https://github.com/user-attachments/assets/a620320d-d8b9-4876-93ea-096a99943b31" />
-
-```
 
 ---
 
