@@ -67,4 +67,8 @@ How to Use
 
 ---
 
+Dashboard Overview
+<img width="1054" height="775" alt="Screenshot 2025-12-10 183430" src="https://github.com/user-attachments/assets/b6a017fe-af37-4101-bf75-73d10fc41720" />
+
+
  If you like this project, consider giving it a star on GitHub!
